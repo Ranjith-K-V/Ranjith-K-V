@@ -11,7 +11,10 @@
 - 🌱 I'm constantly learning and improving my skills in react native.
 - 👯 I'm open to collaborating on React js,Native.
 - 💬 Ask me about Travel or music.
-- 📫 How to reach me: mailto:ranjith.k.v@outlook.com.com.
+<div align="center"> 
+  <a href="mailto:ranjith.k.v@outlook.com.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
 
 ## GitHub Stats

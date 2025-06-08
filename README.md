@@ -33,7 +33,7 @@ Feel free to explore my repositories for more projects and contributions.
 
 You can find me on the following platforms:
 
-- [LinkedIn]([LinkedInProfileLink](https://www.linkedin.com/in/ranjith-kv/))
+- [LinkedIn](https://www.linkedin.com/in/ranjith-kv/)
 - [Twitter](TwitterProfileLink)
 - [Portfolio Website](YourPortfolioWebsiteLink)
 

@@ -8,8 +8,8 @@
 
 ## About Me
 
-- 🌱 I'm constantly learning and improving my skills in react native.
-- 👯 I'm open to collaborating on React js,Native.
+- 🌱 I'm constantly learning and improving my skills in Asp.Net Fullstack.
+- 👯 I'm open to collaborating on Asp.Net,React js,Native.
 - 💬 Ask me about Travel or music.
 <div align="center"> 
   <a href="mailto:ranjith.k.v@outlook.com.com">
